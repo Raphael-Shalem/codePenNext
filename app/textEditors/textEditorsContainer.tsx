@@ -1,4 +1,4 @@
-import { editorVariants } from "./myConstants"
+import { editorVariants } from "../myConstants"
 import Editor from "./textEditorUnit"
 
 const TextEditorsContainer = () => {
