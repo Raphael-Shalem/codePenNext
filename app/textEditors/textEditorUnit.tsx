@@ -1,7 +1,7 @@
 'use client'
 import { observer } from 'mobx-react';
-import { TeditorVariant } from './types';
-import { useStore } from './context/rootStore';
+import { TeditorVariant } from '../types';
+import { useStore } from '../context/rootStore';
 import { action } from 'mobx';
 import { ChangeEvent } from 'react';
 
